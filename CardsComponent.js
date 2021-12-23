@@ -9,8 +9,8 @@ class Cards extends  React.Component{
              <div className="row">
                  <div className="col md-3 mb-3 mt-3">
                    <Card  imgSource="https://m.media-amazon.com/images/I/81MWLey3tjL._AC_UL480_FMwebp_QL65_.jpg" 
-                    buyLink="https://www.amazon.in/Home-Sizzler-Eyelet-Polyester-Curtain/dp/B071HGZQRL/ref=sr_1_5?crid=25QW207ER1VW6&keywords=curtains&qid=1640245843&sprefix=curt%2Caps%2C300&sr=8-5"
-                    price="Rs.399"></Card>
+                    buyLink="https://www.amazon.in/Home-Sizzler-Abstract-Polyester-Curtain/dp/B01DA4NSHO/ref=sr_1_6?crid=3GKSE10772YCW&keywords=curtains&qid=1640302284&sprefix=curtain%2Caps%2C328&sr=8-6"
+                    price="Rs.449"></Card>
                      
                  </div>
                  <div className="col  md-3 mb-3 mt-3">
@@ -36,8 +36,8 @@ class Cards extends  React.Component{
                  </div>
                  <div className="col md-3 mb-3 mt-3">
                    <Card  imgSource="https://m.media-amazon.com/images/I/81MWLey3tjL._AC_UL480_FMwebp_QL65_.jpg" 
-                    buyLink="https://www.amazon.in/Home-Sizzler-Eyelet-Polyester-Curtain/dp/B071HGZQRL/ref=sr_1_5?crid=25QW207ER1VW6&keywords=curtains&qid=1640245843&sprefix=curt%2Caps%2C300&sr=8-5"
-                    price="Rs.399"></Card>
+                    buyLink="https://www.amazon.in/Home-Sizzler-Abstract-Polyester-Curtain/dp/B01DA4NSHO/ref=sr_1_6?crid=3GKSE10772YCW&keywords=curtains&qid=1640302284&sprefix=curtain%2Caps%2C328&sr=8-6"
+                    price="Rs.449"></Card>
                      
                  </div>
                  
